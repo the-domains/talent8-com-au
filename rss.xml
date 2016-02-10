@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[talent8.com.au]]></title>
+        <description><![CDATA[talent8.com.au]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 11:47:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Company]]></title>
+            <description><![CDATA[<article><h1>Our Company</h1><p>Talent8 is one of the fastest growing international talent acquisition and management, executive search, leadership and talent technology advisory firm. Renowned for innovation, the firm is considered to be the advisor of choice among top companies seeking guidance and counsel on senior leadership requirements and has unrivalled access to innovative and emerging methodologies in the evolving world of talent management.We partner with a diverse range of clients, including multinational corporations, entrepreneurial businesses, private equity firms, family-owned companies, and nonprofit organisations. At Talent8 we are dedicated to innovate by creating incredibly meaningful Leadership Teams that add long-term value, solve a wide range of important problems across organisations, and help candidates further develop their careers.Our employees are specialists in their industry and have the advantage to learn from multinational businesses inside out as they work side-by-side with some of the world's most phenomenal organisations and business leaders.</p></article>]]></description>
+            <link>undefinedour-company/index.html</link>
+            <guid isPermaLink="false">d14ef38b-8de6-45f2-a5af-4485605dddb7</guid>
+            <pubDate>Wed, 10 Feb 2016 11:46:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
