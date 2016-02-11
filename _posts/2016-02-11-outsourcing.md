@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://alexandermannsolutions.com'
-  name: Alexandermannsolutions
-  favicon: 'http://alexandermannsolutions.com/img/favicon/favicon-16x16.png'
-  domain: alexandermannsolutions.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - talent
   - acquisition
@@ -17,20 +15,24 @@ keywords:
   - management
   - mann
   - outsourcing
-description: Global and local outsourcing services from Alexander Mann Solutions that are tailored to address your specific talent acquisition and management needs.
-inLanguage: en
+description: Global and local outsourcing services from Talent8 that are tailored to address your specific talent acquisition and management needs.
+datePublished: '2016-02-11T04:18:59.403Z'
+dateModified: '2016-02-11T04:18:40.271Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://alexandermannsolutions.com/outsourcing'
 title: Outsourcing
-datePublished: '2016-02-11T03:07:52.310Z'
-dateModified: '2016-02-11T02:59:43.710Z'
 sourcePath: _posts/2016-02-11-outsourcing.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  favicon: 'http://alexandermannsolutions.com/img/favicon/favicon-16x16.png'
+  name: Alexandermannsolutions
+  domain: alexandermannsolutions.com
+  url: 'http://alexandermannsolutions.com'
+url: outsourcing/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Outsourcing</h1><p>Global and local outsourcing services from Alexander Mann Solutions that are tailored to address your specific talent acquisition and management needs&amp;period;</p><img src="http://alexandermannsolutions.com/images/default-source/default-album/ams-logo-square.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76b72ede-8312-4567-bffd-f916d805c26f.jpg)
