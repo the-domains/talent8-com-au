@@ -1,29 +1,41 @@
-name: talent8
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75048
-title: Talent8 - Global Talent Acquisition Solutions
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: www.talent8.com.au
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+title: Talent8 - Global Talent Acquisition Solutions
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.4410951135214418
+  brandStrength: 1
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#0077b4'
     - '#fdd001'
     - '#022d47'
     - '#6f5700'
-  brandStrength: 1
   lightness: 0.7437978400848806
-  saturation: 0.4410951135214418
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: talent8
+typography_spectrum: 0.75048
