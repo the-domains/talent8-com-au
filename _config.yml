@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: www.talent8.com.au
-  facebook: null
+typography_spectrum: 0.75048
 opengraph:
   image: null
   type: null
@@ -12,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 1
 title: Talent8 - Global Talent Acquisition Solutions
 cta:
@@ -37,5 +34,8 @@ color:
   lightness: 0.7437978400848806
 purpose: []
 favicon: null
+analytics:
+  twitter: null
+  google: www.talent8.com.au
+  facebook: null
 name: talent8
-typography_spectrum: 0.75048
