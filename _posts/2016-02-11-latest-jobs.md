@@ -2,19 +2,20 @@
 author: []
 related: []
 publisher:
+  favicon: 'http://inov8talent.com/favicon.ico'
   url: 'http://inov8talent.com'
   name: Inov8 - Innovative Talent Acquisition And Management Solutions
-  favicon: 'http://inov8talent.com/favicon.ico'
   domain: inov8talent.com
 keywords: []
 description: 'Global innovative talent acquisition, recruitment and management solutions provider.'
 app_links: []
 isBasedOnUrl: 'http://inov8talent.com/latest-jobs/'
 title: Latest Jobs
-datePublished: '2016-02-11T03:07:36.270Z'
-dateModified: '2016-02-11T01:58:14.507Z'
+datePublished: '2016-02-11T04:18:59.375Z'
+dateModified: '2016-02-11T04:18:41.929Z'
 sourcePath: _posts/2016-02-11-latest-jobs.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
