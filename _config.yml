@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: www.talent8.com.au
   facebook: null
   twitter: null
 opengraph:
